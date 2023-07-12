@@ -1,0 +1,10 @@
+com/knowenobiso/Product/Service/dto/ProductResponse.class
+com/knowenobiso/Product/Service/model/Product.class
+com/knowenobiso/Product/Service/dto/ProductRequest$ProductRequestBuilder.class
+com/knowenobiso/Product/Service/service/ProductService.class
+com/knowenobiso/Product/Service/dto/ProductRequest.class
+com/knowenobiso/Product/Service/dto/ProductResponse$ProductResponseBuilder.class
+com/knowenobiso/Product/Service/controller/ProductController.class
+com/knowenobiso/Product/Service/ProductServiceApplication.class
+com/knowenobiso/Product/Service/model/Product$ProductBuilder.class
+com/knowenobiso/Product/Service/repository/ProductRepository.class
